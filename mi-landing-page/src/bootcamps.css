@@ -1,0 +1,16 @@
+.bootcampsBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.coursesArrayBox {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+}
+
+body {
+    font-family: 'Proxima Nova', sans-serif;
+}
+

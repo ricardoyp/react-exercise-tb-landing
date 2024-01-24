@@ -1,0 +1,42 @@
+.bootcampCard {
+    width: 300px;
+    height: 400px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    margin: 10px;
+    position: relative;
+  }
+  
+  .bootcampCard h1 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .bootcampCard p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .infoLink {
+    font-weight: bold;
+    color: #ff0000;
+    bottom: 0;
+    right: 0;
+    margin: 15px; /* Ajusta según sea necesario */
+    text-decoration: none;    
+    position: absolute;
+  }
+
+.timeCard {
+  color: white;
+  background-color: #20172A;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.timeCardBox {
+  display: flex;
+  gap: 20px;
+}

@@ -1,0 +1,15 @@
+.navBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    gap: 50px;
+    background-color: #20172A;
+    color: white;
+    list-style-type: none;
+
+}
+
+.theBridgeImg {
+    height: 30px;
+}
